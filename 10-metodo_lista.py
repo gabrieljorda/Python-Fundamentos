@@ -25,7 +25,7 @@ print(filmesList)
 
 
 # Escreva um programa que:
-
+1361 
 # Leia 3 números inteiros.
 
 # Armazene esses números em uma lista.
