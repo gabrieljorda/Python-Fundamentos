@@ -29,6 +29,7 @@ Construir uma base sólida nos **fundamentos do Python**, preparando o caminho p
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 
+- Python
+- Ipynb
 
 
