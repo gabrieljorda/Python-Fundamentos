@@ -29,7 +29,11 @@ Construir uma base sólida nos **fundamentos do Python**, preparando o caminho p
 
 ## 🛠️ Tecnologias Utilizadas
 
+<<<<<<< HEAD
 - Python 
+=======
+- Python
+>>>>>>> 66327be0ef1aa54d59e1fa5db50c3685d7a1eec0
 - Ipynb
 
 
