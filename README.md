@@ -14,8 +14,8 @@ O conteúdo tem foco na construção de uma base sólida em **lógica de program
 - Estruturas condicionais (`if`, `elif`, `else`)
 - Laços de repetição (`for`, `while`)
 - Funções
-- Listas, tuplas, dicionários e conjuntos
-- Manipulação de strings
+- Listas, tuplas, dicionários, iteradores e conjuntos 
+- Manipulação de strings 
 - Entrada e saída de dados
 - Introdução à modularização
 
@@ -29,7 +29,7 @@ Construir uma base sólida nos **fundamentos do Python**, preparando o caminho p
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 
-- Ipynb
+- Python.
+- Algumas Bibliotecas.
 
 
