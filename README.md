@@ -30,6 +30,6 @@ Construir uma base sólida nos **fundamentos do Python**, preparando o caminho p
 ## 🛠️ Tecnologias Utilizadas
 
 - Python.
-- Algumas Bibliotecas.
+- Algumas Bibliotecas e módulos nativos(glob , os , zipfile , csv ...).
 
 
